@@ -273,8 +273,9 @@ main .insights > div.income span{
    background: var(--color-success);
 }
 
-.middle {
+main .insights .income > div .middle {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
